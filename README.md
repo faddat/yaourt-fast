@@ -10,9 +10,9 @@ I love yaourt and without it frankly arch doesn't reach half its potential.  Thi
  * git clone https://aur.archlinux.org/yaourt.git
  * git clone https://aur.archlinux.org/package-query.git
  * cd package-query
- * makepkg -ui
+ * makepkg -si
  * cd ../yaourt
- * makepkg -ui
+ * makepkg -si
 
  
 
